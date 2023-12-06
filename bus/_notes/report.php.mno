@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bus" value="name:id;datatype:int,name:name;datatype:string,name:plate;datatype:string,name:seats;datatype:int,name:ticketPrice;datatype:int,name:trip;datatype:int,name:status;datatype:int,name:date;datatype:datetime,name:company;datatype:int,name:details;datatype:string" />
+</info>
