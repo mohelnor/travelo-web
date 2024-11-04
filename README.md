@@ -11,6 +11,6 @@ Have fun using or tweeking this repo.
 
 ### TRIPS
 
-![](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/branching.png)
+![](example_page.png)
 
 
