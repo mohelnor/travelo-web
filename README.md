@@ -7,7 +7,7 @@ Have fun using or tweeking this repo.
 ## SCREENS 
 
 ### LANDING PAGE
-![](travelo.web 1.png)
+![](travelo.web.png)
 
 ### TRIPS
 
